@@ -1,0 +1,53 @@
+body {
+    margin: 2px;
+    background-color: rgb(61, 67, 77);
+    color: blueviolet;
+    display: flex;
+}
+
+#firstt {
+    font-size: 50px;
+}
+
+.container {
+    display: flex;
+}
+
+.texttitle {
+    margin-left: 650px;
+    text-align: center;
+    align-items: center;
+}
+
+#mensele {
+    background-color: rgb(30, 36, 47);
+    margin-right: 50px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-bottom: 605px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 3px solid #000;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#menu {
+    text-align: center;
+    align-items: center;
+    background-color: dimgray;
+    margin-bottom: 250px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 3px solid darkorchid;
+    transition: background-color 0.4s;
+}
+
+#menu:hover {
+    background-color: yellow;
+}
+
+#menu:active {
+    background-color: rgb(114, 114, 9);
+}
