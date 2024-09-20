@@ -13,6 +13,7 @@
 
 ## 🔧 Instalação ##
 Instale os arquivos do repositório, menos o README, após a instalação use ou "VS" ou "VSC" para visualizar os arquivos, Exemplos:
+![vscode](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s)
 * Microsoft Visual Studio (VS)
 * Visual Studio Code (VSC) <br>
 >A diferença entre os dois é, o VS é mais pesado(ocupa mais espaço), pois ele vem com todas as extenções nescessárias, pré instaladas, já o VSC, vem com algumas e por isso ele é mais leve(ocupa menos espaço).
