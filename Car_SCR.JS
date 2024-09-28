@@ -150,5 +150,5 @@ function create_buton() {
     
     botao2.onclick = function() {
         window.location.href = 'file:///C:/Users/manac/Desktop/Reposit%C3%B3rios/Trabalho%20de%20escola/Ragnarok_bar/Cardapio_INX.HTML';
-    };    
+    };
 }

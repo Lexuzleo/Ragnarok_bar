@@ -3,5 +3,51 @@ body {
     background-color: rgb(61, 67, 77);
     color: red;
     display: flex;
+}
+
+#firstt {
+    font-size: 50px;
+}
+
+.container {
+    display: flex;
+}
+
+.texttitle {
+    margin-left: 250px;
     text-align: center;
+    align-items: center;
+}
+
+#mensele {
+    background-color: rgb(30, 36, 47);
+    margin-right: 0px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 3px solid #000;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#menu {
+    text-align: center;
+    align-items: center;
+    background-color: dimgray;
+    margin-bottom: 100px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 3px solid ;
+    transition: background-color 0.4s;
+}
+
+#menu:hover {
+    background-color: yellow;
+}
+
+#menu:active {
+    background-color: rgb(114, 114, 9);
 }
