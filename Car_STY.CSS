@@ -1,0 +1,7 @@
+body {
+    margin: 2px;
+    background-color: rgb(61, 67, 77);
+    color: red;
+    display: flex;
+    text-align: center;
+}
