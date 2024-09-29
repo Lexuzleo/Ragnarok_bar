@@ -10,13 +10,31 @@ body {
 }
 
 .container {
+    margin-left: 150px;
+}
+.crad {
     display: flex;
+    margin-left: 100px;
+    border: 2px solid black;
+    padding: 15px;
 }
 
 .texttitle {
-    margin-left: 250px;
+    margin-left: 10px;
     text-align: center;
     align-items: center;
+}
+
+.Drink {
+    margin-left: 0px;
+    display: block;
+}
+
+#titD {
+    margin-left: 100px;
+}
+.lanch {
+    margin-left: 10px;
 }
 
 #mensele {
